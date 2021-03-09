@@ -5,8 +5,8 @@
             "Group": "PG",
             "Port": 5432,
             "Username": "postgres",
-            "PassFile": "/pgpass",
-            "Host": "localhost",
+            "PassFile": "pgpass",
+            "Host": "pg",
             "SSLMode": "prefer",
             "MaintenanceDB": "postgres"
         }
